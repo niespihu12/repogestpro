@@ -1,0 +1,17 @@
+{
+    "name": "nicolas-pinzon/repogestpro",
+    "description": "Un gestor de proyectos enlazado a git",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nicolas Pinzon",
+            "email": "niespihu12@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}

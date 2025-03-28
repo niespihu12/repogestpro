@@ -1,0 +1,28 @@
+{
+  "name": "repogestpro",
+  "version": "1.0.0",
+  "description": "Un gestor de proyectos conectada a github",
+  "keywords": [
+    "gestor",
+    "proyectos",
+    "git",
+    "github",
+    "metodologias",
+    "agiles"
+  ],
+  "license": "ISC",
+  "author": "Nicolas Pinzon, Juan Nuñez y Dikson cantillo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "devDependencies": {
+    "glob": "^11.0.1",
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.86.0",
+    "sharp": "^0.33.5"
+  }
+}
